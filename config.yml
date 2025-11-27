@@ -54,19 +54,19 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Frank (Guangyu) Wang
+          subtitle: "NYU Mathematics and Economics Graduate; Passionate about Macro, Quantitative Investing, and Mathematical Optimization. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: About
               url: papers/
-            - name: Data
+            - name: Fun Facts
               url: data/
-            - name: Books
+            - name: Project
               url: books/
-            - name: Courses
+            - name: Recommended Books
               url: courses/
             - name: Tags
               url: tags/
