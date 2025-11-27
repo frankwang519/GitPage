@@ -1,6 +1,6 @@
 baseURL: "https://frankwang.org" 
 title: Frankwwww
-# theme: PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
