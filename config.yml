@@ -1,6 +1,6 @@
 baseURL: "https://frankwang.org" 
 title: Frankwwww
-theme: PaperMod
+# theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Frank Wang's Personal Website"
+    author: Frank Wang
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -83,7 +83,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Frank Wang"
       icon: favicon.ico
       iconHeight: 18
 
